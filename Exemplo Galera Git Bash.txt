@@ -1,1 +1,1 @@
-Esse é apenasum exemplo para galera do Git Bash.
+Esse é apenas um exemplo para galera do Git Bash. =)
