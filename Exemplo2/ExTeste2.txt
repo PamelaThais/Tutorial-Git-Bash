@@ -1,0 +1,1 @@
+ExTeste foi criado, apenas para usar no tuturial Git Bash.
